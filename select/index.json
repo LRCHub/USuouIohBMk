@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Time judged all(タジャドル コンボのテーマ)",
+  "base_artist": "火野映司×アンク(C.V.渡部 秀･三浦涼介)",
+  "createdAt": "2026-01-09T07:42:33.342616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time judged all - タジャドル コンボのテーマ",
+      "artist": "火野映司(C.V.渡部 秀)",
+      "has_synced": true,
+      "path": "select/01_Time_judged_all_-_タジャドル_コンボのテーマ_火野映司(C.V.渡部_秀).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time judged all",
+      "artist": "火野映司×アンク(C.V.渡部秀・三浦涼介)",
+      "has_synced": false,
+      "path": "select/pl_01_Time_judged_all_火野映司×アンク(C.V.渡部秀・三浦涼介).txt"
+    }
+  ]
+}
